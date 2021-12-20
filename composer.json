@@ -1,0 +1,8 @@
+{
+    "name": "Vbucks-codes-ps4-glitch/Vbucks-codes",
+    "description": "A short description of what your package does",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
